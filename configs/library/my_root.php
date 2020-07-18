@@ -4,7 +4,7 @@
 */
 
 // variabel global untuk root file
-$root = $_SERVER['DOCUMENT_ROOT'] . '/spk-electre/';
+$root = $_SERVER['DOCUMENT_ROOT'] . '/templating/';
 
 // untuk include file
 function router($file, $lokasi)
